@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive linear regression analysis on an E-commerce dataset. The project demonstrates how linear regression can be applied to model relationships between variables and predict outcomes.
 
-Key features of the project:
+**Key features of the project:**
 
 Data Preprocessing: Applied data cleaning techniques to prepare the dataset for modeling.
 
